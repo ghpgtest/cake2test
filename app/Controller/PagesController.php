@@ -1,5 +1,5 @@
 <?php
-/**
+/** eclipse...
  * Static content controller.
  *
  * This file will render views from views/pages/
