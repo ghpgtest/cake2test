@@ -1,4 +1,4 @@
-<?php
+<?php /* xxx */
 class PostsController extends AppController 
 {
 	public $helpers = array('Html', 'Form', 'Flash');
